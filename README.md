@@ -17,6 +17,7 @@ Here I present 2 methods for searching: the breath first which prioritises looki
 I also provide a practical example where I take movie data and look for the actor that is most distantly related to Kevin Bacon. In this case, actors are related by movies where they have acted together.
 
 Wikipedia info for Depth First Search: https://en.wikipedia.org/wiki/Depth-first_search
+
 Wikipedia info for Breadth First Search: https://en.wikipedia.org/wiki/Breadth-first_search
 
 ## Palindrome
